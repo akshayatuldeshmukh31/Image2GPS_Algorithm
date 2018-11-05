@@ -1,0 +1,1 @@
+python2 img2gps_driver.py
